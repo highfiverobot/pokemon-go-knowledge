@@ -1,4 +1,4 @@
-# tasks
+# ideas
 
 * check out `count, countcandy, countcandyxl`
 * https://leidwesen.github.io/SearchPhrases/
