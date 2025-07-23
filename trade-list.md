@@ -1,6 +1,6 @@
-# trades
+# trade-list
 
-WANTED
+## WANTED
 
 * Bruxish
 * Calyrex
@@ -27,7 +27,7 @@ WANTED
 * Xurkitree
 * Zarude
 
-# EZ TRADES – ALL SHINY
+## EZ TRADES – ALL SHINY
 
 * Abra
 * Aipom
@@ -130,7 +130,7 @@ WANTED
 * Wormadam
 * Wurmple
 
-# MEDIUM LIST – ALL SHINY
+## MEDIUM LIST – ALL SHINY
 
 * Alolan Rattata
 * Ampharos
