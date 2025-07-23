@@ -448,6 +448,8 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 
 <a id="types"></a>
 
+# TYPES
+
 * Fire, Flying, Rock > **BUG** > Grass, Psychic, Dark
 * Bug, Fairy, Fighting > **DARK** > Ghost, Psychic
 * Dragon, Fairy, Ice > **DRAGON** > Dragon
