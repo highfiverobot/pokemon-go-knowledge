@@ -1,9 +1,9 @@
 ---
 created: 2025-07-22T22:25:07-04:00
-modified: 2025-07-22T22:25:33-04:00
+modified: 2025-07-22T22:29:10-04:00
 ---
 
-# spoofing cooldown
+# cooldown
 
 Miles   Kilometers Time
 0.62 mi         1 km 1 min
