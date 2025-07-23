@@ -1,3 +1,6 @@
+# search strings
+
+main
 
 new
 shiny,4*,shadow,maxmove1-&!#max&!#shadhigh&!favorite&!trade&!#2x&!#later&!#misc
