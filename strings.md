@@ -3,7 +3,7 @@
 ## new
 shiny,4*,shadow,maxmove1-&!#max&!#shadhigh&!favorite&!trade&!#2x&!#later&!#misc
 
-## finish
+## clean
 #2x&!trade&!#later&!dynamax&!gigantamax&!shadow&!4*&!shiny&!#misc&!favorite
 
 ## review
