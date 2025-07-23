@@ -9,13 +9,12 @@
 * [😎 levels](#levels)
 * [👊 types](#types)
 
-[test](#section_id)
-
-
 
 <a id="trades"></a>
 
-### WANTED
+# trades
+
+### wanted (shiny preferable, but open to more things)
 
 * Bruxish
 * Calyrex
@@ -42,7 +41,7 @@
 * Xurkitree
 * Zarude
 
-### EZ TRADES – ALL SHINY
+### ez trades - all shiny
 
 * Abra
 * Aipom
@@ -145,7 +144,7 @@
 * Wormadam
 * Wurmple
 
-### MEDIUM LIST – ALL SHINY
+### medium – all shiny
 
 * Alolan Rattata
 * Ampharos
@@ -175,7 +174,7 @@
 * Togedemaru
 * Togepi
 
-# HARD LIST – ALL SHINY
+### hard - all shiny
 
 * Absol
 * Aron
@@ -259,6 +258,8 @@
 
 <a id="friends"></a>
 
+# FRIENDS
+
 ### all
 
 DianthusPhlox, QueenPenelopeJ3, ParkinTsun, RJR801, Duraid77, TifaZhou, Sfturtle, jeromeT, kb69lcs, Hoully1988, Carlos23AVD, MozMom, Turtleboy, SlanginPuun
@@ -274,6 +275,8 @@ Yosemit3Sam, VoonieJasper, Pepperbrownie14, Loudog75, QueenZelina, GreatTrashPan
 
 
 <a id="ideas"></a>
+
+# IDEAS
 
 * check out `count, countcandy, countcandyxl`
 * https://leidwesen.github.io/SearchPhrases/
