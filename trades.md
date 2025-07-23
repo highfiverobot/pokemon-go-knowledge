@@ -1,4 +1,4 @@
-# trade-list
+# trades
 
 ## WANTED
 
