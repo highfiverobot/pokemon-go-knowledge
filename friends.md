@@ -1,4 +1,4 @@
-# exp group
+# friends
 
 # all
 
