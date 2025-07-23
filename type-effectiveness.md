@@ -3,7 +3,7 @@ created: 2025-07-22T22:22:07-04:00
 modified: 2025-07-22T22:30:02-04:00
 ---
 
-# type effectiveness
+# type-effectiveness
 
 Fire, Flying, Rock > **BUG** > Grass, Psychic, Dark
 Bug, Fairy, Fighting > DARK > Ghost, Psychic
