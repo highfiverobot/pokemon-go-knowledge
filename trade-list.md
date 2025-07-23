@@ -36,6 +36,7 @@ WANTED
 * Alolan Sandshrew
 * Bidoof
 * Blitzle
+* Bonsly
 * Bronzor
 * Burmy
 * Caterpie
@@ -167,7 +168,6 @@ WANTED
 * Bellsprout
 * Blacephalon
 * Bloodmoon Ursaluna
-* Bonsly
 * Chimecho
 * Clefairy
 * Crabrawler
@@ -177,6 +177,7 @@ WANTED
 * Dewpider
 * Electabuzz
 * Electrike
+* Finneon
 * Fomantis
 * Froakie
 * Galarian Articuno
@@ -209,6 +210,7 @@ WANTED
 * Pikachu (Captain Hat)
 * Pikachu (Red Visor)
 * Pignite
+* Ponyta
 * Poochyena
 * Porygon-Z
 * Psyduck
