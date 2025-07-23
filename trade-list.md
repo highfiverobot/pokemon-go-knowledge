@@ -4,6 +4,7 @@ WANTED
 
 * Bruxish
 * Calyrex
+* Deoxys
 * Dialga
 * Dialga (Origin Forme)
 * Enamorus
@@ -17,7 +18,12 @@ WANTED
 * Palafin
 * Palkia (Origin Forme)
 * Pheromosa
+* Pinser
+* Ponyta (Galarian)
+* Seviper
+* Spiritomb
 * Toxtricity (Gigantamax)
+* Tyrantrum
 * Xurkitree
 * Zarude
 
