@@ -12,7 +12,7 @@ shiny,4*,shadow,maxmove1-&!#max&!#shadhigh&!favorite&!trade&!#2x&!#later&!#misc
 ## highlights
 shiny,4*&age0-4&!trade
 
-## shadow#
+## shadow
 shadhigh&!trade&!#2x
 
 ## max
