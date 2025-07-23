@@ -1,5 +1,6 @@
+# trades
 
-# WANTED
+WANTED
 
 * Bruxish
 * Calyrex
