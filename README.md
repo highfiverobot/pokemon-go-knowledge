@@ -297,6 +297,8 @@ but:
 
 <a id="links"></a>
 
+#
+
 
 * [dialgadex](http://dialgadex.com)
 * pogostring
@@ -369,7 +371,7 @@ or try evolvenew & evolve
 ### PVE shadows
 Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81, 82, 92, 93, 94, 102, 103, 111, 112, 114, 123, 125, 126, 127, 129, 130, 138, 139, 142, 144, 145, 146, 147, 148, 149, 150, 155, 156, 157, 158, 159, 160, 198, 209, 210, 211, 212, 215, 220, 221, 228, 229, 231, 232, 239, 240, 243, 244, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 280, 281, 282, 296, 297, 304, 305, 306, 328, 329, 330, 341, 342, 359, 371, 372, 373, 374, 375, 376, 381, 382, 383, 384, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 403, 404, 405, 408, 409, 430, 443, 444, 445, 449, 450, 453, 454, 461, 462, 464, 465, 466, 467, 473, 475, 485, 524, 525, 526, 529, 530, 532, 533, 534, 554, 555, 588, 589,607, 608, 609, 622, 623, 979
 
-# cooldown
+### cooldown
 
 | Miles       | Kilometers | Time       |
 |-------------|------------|------------|
@@ -393,102 +395,59 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 
 <a id="levels"></a>
 
-Level 45 Requirements
+# LEVELS
 
-XP Required: 66.5M total (13M for this level)
-Tasks:
-
-Defeat 100 Team GO Rocket Grunts
-
-Purify 100 Shadow Pokémon
-
-Defeat a Team GO Rocket Leader 50 times
-
-Earn 10 Platinum Medals
+### Level 45
+- XP: 66.5M total (13M for this level)  
+- Defeat 100 Team GO Rocket Grunts  
+- Purify 100 Shadow Pokémon  
+- Defeat a Team GO Rocket Leader 50 times  
+- Earn 10 Platinum Medals  
 
 ---
 
-Level 46 Requirements
-
-XP Required: 82M total (15.5M for this level)
-Tasks:
-
-Complete 100 Field Research tasks
-
-Take a snapshot of a Pokémon 7 days in a row
-
-Make 50 Excellent Throws
-
-Hatch 30 Eggs
-
-
+### Level 46
+- XP: 82M total (15.5M for this level)  
+- Complete 100 Field Research tasks  
+- Take a snapshot of a Pokémon 7 days in a row  
+- Make 50 Excellent Throws  
+- Hatch 30 Eggs  
 
 ---
 
-Level 47 Requirements
-
-XP Required: 100M total (18M for this level)
-Tasks:
-
-Win 30 raids using a team of all unique Pokémon species
-
-Win a three-star raid using only Pokémon with 1,500 CP or less
-
-Power up 3 Pokémon to their max CP
-
-Earn 20 Platinum Medals
-
-
+### Level 47
+- XP: 100M total (18M for this level)  
+- Win 30 raids using all unique Pokémon species  
+- Win a 3★ raid with only Pokémon ≤1,500 CP  
+- Power up 3 Pokémon to max CP  
+- Earn 20 Platinum Medals  
 
 ---
 
-Level 48 Requirements
-
-XP Required: 121M total (21M for this level)
-Tasks:
-
-Receive 10 Souvenirs from your buddy
-
-Earn 300 hearts with your buddy
-
-Walk 200 km with your buddy
-
-Walk 25 km in a week 8 times
-
-
+### Level 48
+- XP: 121M total (21M for this level)  
+- Receive 10 Souvenirs from your buddy  
+- Earn 300 hearts with your buddy  
+- Walk 200 km with your buddy  
+- Walk 25 km in a week, 8 times  
 
 ---
 
-Level 49 Requirements
-
-XP Required: 146M total (25M for this level)
-Tasks:
-
-Make 10 trades with Pokémon caught at least 300 km apart
-
-Obtain 50 Lucky Pokémon in trades
-
-Send 500 Gifts to friends
-
-Earn 35 Platinum Medals
-
-
+### Level 49
+- XP: 146M total (25M for this level)  
+- Make 10 trades with Pokémon caught ≥300 km apart  
+- Obtain 50 Lucky Pokémon in trades  
+- Send 500 Gifts to friends  
+- Earn 35 Platinum Medals  
 
 ---
 
-Level 50 Requirements
-
-XP Required: 176M total (30M for this level)
-Tasks:
-
-Make 999 Excellent Throws
-
-Catch a Legendary Pokémon in your next 5 Legendary Pokémon encounters
-
-Defeat a Team GO Rocket Leader using only Pokémon with 2,500 CP or less
-
-Achieve Rank 10 in the GO Battle League
-
+### Level 50
+- XP: 176M total (30M for this level)  
+- Make 999 Excellent Throws  
+- Catch a Legendary Pokémon in your next 5 encounters  
+- Defeat a GO Rocket Leader with Pokémon ≤2,500 CP  
+- Achieve Rank 10 in the GO Battle League  
 
 
 <a id="types"></a>
@@ -497,7 +456,6 @@ Achieve Rank 10 in the GO Battle League
 * Bug, Fairy, Fighting > **DARK** > Ghost, Psychic
 * Dragon, Fairy, Ice > **DRAGON** > Dragon
 * Ground > **ELECTRIC** > Flying, Water
-* Poison, Steel > **FAIRY** > Dark, Dragon, Fighting
 * Fairy, Flying, Psychic > **FIGHTING** > Dark, Ice, Normal, Rock, Steel
 * Ground, Rock, Water > **FIRE** > Bug, Grass, Ice, Steel
 * Electric, Ice, Rock > **FLYING** > Bug, Fighting, Grass
