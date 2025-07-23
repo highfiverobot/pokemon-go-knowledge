@@ -292,12 +292,9 @@ but:
 * 12 candy evo
 * can mega
 
-
-
-
 <a id="links"></a>
 
-#
+# LINKS
 
 
 * [dialgadex](http://dialgadex.com)
@@ -308,6 +305,8 @@ but:
 
 
 <a id="strings"></a>
+
+# STRINGS
 
 
 ### new
@@ -389,9 +388,6 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 | 434.96 mi   | 700 km     | 1.25 hr    |
 | 621.37 mi   | 1000 km    | 1.5 hr     |
 | 932.06 mi   | 1500 km+   | 2 hr       |
-
-
-
 
 <a id="levels"></a>
 
