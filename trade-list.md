@@ -12,18 +12,12 @@ WANTED
 * Guzzlord
 * Hoopa
 * Kartana
-* Latias
-* Latios
 * Lugia
-* Necrozma
 * Nihilego
 * Palafin
-* Palkia
 * Palkia (Origin Forme)
 * Pheromosa
 * Toxtricity (Gigantamax)
-* Weavile
-* Xerneas
 * Xurkitree
 * Zarude
 
