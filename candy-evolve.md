@@ -1,3 +1,5 @@
+# evolution candy costs
+
 # Candy cost 0:
 64,67,75,93,525,533,588,616,708,710
 
