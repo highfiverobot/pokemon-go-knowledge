@@ -24,7 +24,6 @@
 | Pinser       | Ponyta (Galarian)   | Seviper          | Spiritomb            |
 | Toxtricity (Gigantamax) | Tyrantrum | Xurkitree        | Zarude               |
 
-
 ### ez trades - all shiny
 
 | Abra       | Aipom          | Alolan Meowth   | Alolan Rattata   |
@@ -54,6 +53,7 @@
 | Vanillite  | Vaporeon       | Venonat          | Voltorb          |
 | Wimpod     | Wooloo         | Wormadam         | Wurmple          |
 
+beldum
 
 ### medium – all shiny
 
@@ -66,11 +66,10 @@
 | Slurpuff         | Sudowoodo         | Swanna             | Swirlix           |
 | Throh            | Togedemaru        | Togepi             |                   |
 
-
 ### hard - all shiny
 
-|-------------------|-------------------|-----------------------|-----------------------|
 | Absol             | Aron              | Barboach             | Bellsprout           |
+|-------------------|-------------------|-----------------------|-----------------------|
 | Blacephalon       | Bloodmoon Ursaluna| Chimecho             | Clefairy             |
 | Crabrawler        | Cresselia         | Cyndaquil            | Delibird             |
 | Dewpider          | Electabuzz        | Electrike            | Finneon              |
@@ -115,11 +114,10 @@ Yosemit3Sam, VoonieJasper, Pepperbrownie14, Loudog75, QueenZelina, GreatTrashPan
 # IDEAS
 
 * check out `count, countcandy, countcandyxl`
-* https://leidwesen.github.io/SearchPhrases/
+
 * what would be the point of `!count1`
 * add third row with can mega, 12 candy evo
 * `megaevolve&mega-2` Finds Megas you can evolve that aren't maxed out level
-* https://old.reddit.com/r/TheSilphRoad/comments/1cak4ho/how_to_create_automatic_afk_evolutions_gesture_in/
 * can `maxmove` replace `dynamax` and `gigantamax`?
 
 
@@ -141,10 +139,13 @@ app that automates reconnecting to GPP
 * pogostring
 * leekduck
 * [pokemon calendar](https://pokemongohub.net/post/event/pokemon-go-july-2025-events/)
-https://pvpoke.com/
-https://www.pokebattler.com/raids
-https://pokemon.gameinfo.io
-https://iv4u.lima-city.de/
+* https://leidwesen.github.io/SearchPhrases/
+* https://pvpoke.com/
+* https://www.pokebattler.com/raids
+* https://pokemon.gameinfo.io
+* https://iv4u.lima-city.de/
+* https://old.reddit.com/r/TheSilphRoad/comments/1cak4ho/how_to_create_automatic_afk_evolutions_gesture_in/
+* https://docs.google.com/spreadsheets/d/12AUOOrRzOwOy6WP-OIyMCo5pDNQW3MksfXL5pMDIp1c/edit?gid=849875596#gid=849875596
 
 
 
