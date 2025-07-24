@@ -70,7 +70,6 @@
 ### hard - all shiny
 
 | Absol             | Aron              | Barboach             | Bellsprout           |
-|-------------------|-------------------|-----------------------|-----------------------|
 | Blacephalon       | Bloodmoon Ursaluna| Chimecho             | Clefairy             |
 | Crabrawler        | Cresselia         | Cyndaquil            | Delibird             |
 | Dewpider          | Electabuzz        | Electrike            | Finneon              |
