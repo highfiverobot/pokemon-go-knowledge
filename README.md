@@ -36,6 +36,7 @@ Yosemit3Sam, VoonieJasper, Pepperbrownie14, Loudog75, QueenZelina, GreatTrashPan
 * add third row with can mega, 12 candy evo
 * `megaevolve&mega-2` Finds Megas you can evolve that aren't maxed out level
 * can `maxmove` replace `dynamax` and `gigantamax`?
+* it's maxmove1-3, this also includes zam/zac
 
 new third row, have to shift candy
 but:
@@ -44,7 +45,7 @@ but:
 
 https://github.com/Mygod/pogoplusle/releases
 
-app that automates reconnecting to GPP
+app that automates reconnecting to G++
 
 <a id="links"></a>
 
