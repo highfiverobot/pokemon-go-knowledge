@@ -292,6 +292,10 @@ but:
 * 12 candy evo
 * can mega
 
+https://github.com/Mygod/pogoplusle/releases
+
+app that automates reconnecting to GPP
+
 <a id="links"></a>
 
 # LINKS
@@ -301,6 +305,11 @@ but:
 * pogostring
 * leekduck
 * [pokemon calendar](https://pokemongohub.net/post/event/pokemon-go-july-2025-events/)
+https://pvpoke.com/
+https://www.pokebattler.com/raids
+https://pokemon.gameinfo.io
+https://iv4u.lima-city.de/
+
 
 
 
