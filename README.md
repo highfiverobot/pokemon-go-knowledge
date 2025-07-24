@@ -9,88 +9,6 @@
 * [😎 levels](#levels)
 * [👊 types](#types)
 
-
-<a id="trades"></a>
-
-# trades
-
-### wanted (shiny preferable, but open to more things)
-
-| Bruxish      | Calyrex             | Deoxys           | Dialga               |
-|--------------|---------------------|------------------|----------------------|
-| Dialga (Origin Forme) | Enamorus    | Gengar (Gigantamax) | Granbull (Shadow) |
-| Guzzlord     | Hoopa               | Kartana          | Lugia                |
-| Nihilego     | Palafin             | Palkia (Origin Forme) | Pheromosa       |
-| Pinser       | Ponyta (Galarian)   | Seviper          | Spiritomb            |
-| Toxtricity (Gigantamax) | Tyrantrum | Xurkitree        | Zarude               |
-
-### ez trades - all shiny
-
-| Abra       | Aipom          | Alolan Meowth   | Alolan Rattata   |
-|------------|----------------|------------------|------------------|
-| Alolan Sandshrew | Bidoof     | Blitzle          | Bonsly           |
-| Bronzor    | Burmy          | Caterpie         | Chansey          |
-| Chespin    | Chimchar       | Clamperl         | Combee           |
-| Cubone     | Dreepy         | Drilbur          | Dugtrio          |
-| Durant     | Duskull        | Eevee            | Elgyem           |
-| Espurr     | Falinks        | Feebas           | Fennekin         |
-| Ferroseed  | Fletchling     | Fomantis         | Fuecoco          |
-| Furfrou    | Galarian Zigzagoon | Golett      | Gothita          |
-| Grimer     | Grubbin        | Gulpin           | Hisuian Voltorb  |
-| Hoppip     | Houndour       | Huntail          | Jangmo-o         |
-| Jigglypuff | Jolteon        | Karrablast       | Lechonk          |
-| Litleo     | Lopunny        | Machop           | Magikarp         |
-| Mankey     | Marill         | Mawile           | Meditite         |
-| Meowth     | Morelull       | Munna            | Oddish           |
-| Panpour    | Pawmi          | Pawniard         | Phantump         |
-| Pidgey     | Pikachu        | Piplup           | Popplio          |
-| Quaxly     | Qwilfish       | Ralts            | Remoraid         |
-| Scizor     | Scyther        | Seel             | Shelmet          |
-| Slowpoke   | Sneasel        | Snivy            | Snorunt          |
-| Snubbull   | Spearow        | Starly           | Staryu           |
-| Stunfisk   | Swablu         | Swinub           | Teddiursa        |
-| Timburr    | Tirtouga       | Togedemaru       | Totodile         |
-| Vanillite  | Vaporeon       | Venonat          | Voltorb          |
-| Wimpod     | Wooloo         | Wormadam         | Wurmple          |
-
-beldum
-
-### medium – all shiny
-
-| Ampharos         | Arcanine          | Aromatisse        | Audino            |
-|------------------|-------------------|--------------------|-------------------|
-| Bellsprout       | Binacle           | Clawitzer          | Cutiefly          |
-| Delibird         | Hisuian Arcanine  | Hitmonlee          | Lickitung         |
-| Lilligant        | Lillipup          | Mawile             | Pikachu           |
-| Rattata (Alola)  | Sableye           | Samurott           | Scolipede         |
-| Slurpuff         | Sudowoodo         | Swanna             | Swirlix           |
-| Throh            | Togedemaru        | Togepi             |                   |
-
-### hard - all shiny
-
-| Absol             | Aron              | Barboach             | Bellsprout           |
-|-------------------|-------------------|-----------------------|-----------------------|
-| Blacephalon       | Bloodmoon Ursaluna| Chimecho             | Clefairy             |
-| Crabrawler        | Cresselia         | Cyndaquil            | Delibird             |
-| Dewpider          | Electabuzz        | Electrike            | Finneon              |
-| Fomantis          | Froakie           | Galarian Articuno    | Gastly               |
-| Gastrodon         | Glameow           | Heracross            | Hitmontop            |
-| Hypno             | Kingler (Dynamax) | Koffing              | Komala (Party Hat)   |
-| Kyurem            | Lapras            | Larvesta             | Lickitung            |
-| Lillipup          | Litwick           | Luvdisc              | Machamp (Gigantamax) |
-| Makuhita          | Mareanie          | Milotic              | Natu                 |
-| Ninjask           | Noibat            | Numel                | Nymble               |
-| Pidgey            | Pikachu (Captain Hat) | Pikachu (Red Visor) | Pignite           |
-| Ponyta            | Poochyena         | Porygon-Z            | Psyduck              |
-| Regirock          | Rhyhorn           | Roggenrola           | Rowlet               |
-| Salamence         | Sandygast         | Sceptile             | Sewaddle             |
-| Shieldon          | Shuckle           | Smeargle             | Snover               |
-| Spheal            | Spoink            | Sprigatito           | Starmie              |
-| Stufful           | Tangela           | Tauros               | Thundurus            |
-| Togekiss          | Tympole           | Tyranitar            | Ursaluna (Bloodmoon) |
-| Vullaby           | Yungoos           | Zapdos               |                      |
-
-
 <a id="friends"></a>
 
 # FRIENDS
@@ -108,7 +26,6 @@ DianthusPhlox, QueenPenelopeJ3, ParkinTsun, RJR801, Duraid77, TifaZhou, Sfturtle
 
 Yosemit3Sam, VoonieJasper, Pepperbrownie14, Loudog75, QueenZelina, GreatTrashPanda, ToxicN0x, Schnee13, Wildcats, 3NoTrump, Michele812b4u, Mishydee531, Isabella1665, LMeiDay, Gretchen6744, TherapyAnyone
 
-
 <a id="ideas"></a>
 
 # IDEAS
@@ -119,7 +36,6 @@ Yosemit3Sam, VoonieJasper, Pepperbrownie14, Loudog75, QueenZelina, GreatTrashPan
 * add third row with can mega, 12 candy evo
 * `megaevolve&mega-2` Finds Megas you can evolve that aren't maxed out level
 * can `maxmove` replace `dynamax` and `gigantamax`?
-
 
 new third row, have to shift candy
 but:
@@ -134,7 +50,6 @@ app that automates reconnecting to GPP
 
 # LINKS
 
-
 * [dialgadex](http://dialgadex.com)
 * pogostring
 * leekduck
@@ -148,6 +63,28 @@ app that automates reconnecting to GPP
 * https://docs.google.com/spreadsheets/d/12AUOOrRzOwOy6WP-OIyMCo5pDNQW3MksfXL5pMDIp1c/edit?gid=849875596#gid=849875596
 
 
+
+<a id="types"></a>
+
+# TYPES
+
+* Fire, Flying, Rock > **BUG** > Grass, Psychic, Dark
+* Bug, Fairy, Fighting > **DARK** > Ghost, Psychic
+* Dragon, Fairy, Ice > **DRAGON** > Dragon
+* Ground > **ELECTRIC** > Flying, Water
+* Fairy, Flying, Psychic > **FIGHTING** > Dark, Ice, Normal, Rock, Steel
+* Ground, Rock, Water > **FIRE** > Bug, Grass, Ice, Steel
+* Electric, Ice, Rock > **FLYING** > Bug, Fighting, Grass
+* Dark, Ghost > **GHOST** > Ghost, Psychic
+* Bug, Fire, Flying, Ice, Poison > **GRASS** > Ground, Rock, Water
+* Grass, Ice, Water > **GROUND** > Electric, Fire, Poison, Rock, Steel
+* Fighting, Fire, Rock, Steel > **ICE** > Dragon, Flying, Grass, Ground
+* Fighting > **NORMAL** > —
+* Ground, Psychic > **POISON** > Fairy, Grass
+* Bug, Dark, Ghost > **PSYCHIC** > Fighting, Poison
+* Fighting, Grass, Ground, Steel, Water > **ROCK** > Bug, Fire, Flying, Ice
+* Fighting, Fire, Ground > **STEEL** > Fairy, Ice, Rock
+* Electric, Grass > **WATER** > Fire, Ground, Rock
 
 
 <a id="strings"></a>
@@ -292,24 +229,275 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 - Achieve Rank 10 in the GO Battle League  
 
 
-<a id="types"></a>
+<a id="trades"></a>
 
-# TYPES
+# trades
+Here are your lists, formatted as markdown:
 
-* Fire, Flying, Rock > **BUG** > Grass, Psychic, Dark
-* Bug, Fairy, Fighting > **DARK** > Ghost, Psychic
-* Dragon, Fairy, Ice > **DRAGON** > Dragon
-* Ground > **ELECTRIC** > Flying, Water
-* Fairy, Flying, Psychic > **FIGHTING** > Dark, Ice, Normal, Rock, Steel
-* Ground, Rock, Water > **FIRE** > Bug, Grass, Ice, Steel
-* Electric, Ice, Rock > **FLYING** > Bug, Fighting, Grass
-* Dark, Ghost > **GHOST** > Ghost, Psychic
-* Bug, Fire, Flying, Ice, Poison > **GRASS** > Ground, Rock, Water
-* Grass, Ice, Water > **GROUND** > Electric, Fire, Poison, Rock, Steel
-* Fighting, Fire, Rock, Steel > **ICE** > Dragon, Flying, Grass, Ground
-* Fighting > **NORMAL** > —
-* Ground, Psychic > **POISON** > Fairy, Grass
-* Bug, Dark, Ghost > **PSYCHIC** > Fighting, Poison
-* Fighting, Grass, Ground, Steel, Water > **ROCK** > Bug, Fire, Flying, Ice
-* Fighting, Fire, Ground > **STEEL** > Fairy, Ice, Rock
-* Electric, Grass > **WATER** > Fire, Ground, Rock
+---
+
+## Wanted (Shiny preferable, but open to more things)
+
+* Bruxish
+* Calyrex
+* Cofagrigus
+* Deoxys
+* Dialga
+* Dialga (Origin Forme)
+* Dratini
+* Eelektross
+* Enamorus
+* Gengar (Gigantamax)
+* Gourgeist
+* Granbull (Shadow)
+* Guzzlord
+* Hoopa
+* Kartana
+* Litwick
+* Lugia
+* Luxray
+* Mudkip
+* Murkrow
+* Nihilego
+* Palafin
+* Palkia (Origin Forme)
+* Pheromosa
+* Pinsir
+* Politoed
+* Ponyta (Galarian)
+* Riolu
+* Salandit
+* Seviper
+* Slugma
+* Spiritomb
+* Stantler
+* Toxtricity (Gigantamax)
+* Tyrantrum
+* Weedle
+* Woobat
+* Xurkitree
+* Yanmega
+* Yveltal
+* Zarude
+
+---
+
+## Ez Trades - All Shiny
+
+* Abra
+* Aipom
+* Alolan Meowth
+* Alolan Rattata
+* Alolan Sandshrew
+* Beldum
+* Bidoof
+* Blitzle
+* Bonsly
+* Bronzor
+* Burmy
+* Caterpie
+* Chansey
+* Chespin
+* Chimchar
+* Clamperl
+* Combee
+* Cubone
+* Dreepy
+* Drilbur
+* Dugtrio
+* Durant
+* Duskull
+* Eevee
+* Elgyem
+* Espurr
+* Falinks
+* Feebas
+* Fennekin
+* Ferroseed
+* Fletchling
+* Fomantis
+* Fuecoco
+* Furfrou
+* Galarian Zigzagoon
+* Golett
+* Gothita
+* Grimer
+* Grubbin
+* Gulpin
+* Hisuian Voltorb
+* Hoppip
+* Houndour
+* Huntail
+* Jangmo-o
+* Jigglypuff
+* Jolteon
+* Karrablast
+* Lechonk
+* Litleo
+* Lopunny
+* Machop
+* Magikarp
+* Mankey
+* Marill
+* Mawile
+* Meditite
+* Meowth
+* Morelull
+* Munna
+* Oddish
+* Panpour
+* Pawmi
+* Pawniard
+* Phantump
+* Pidgey
+* Pikachu
+* Piplup
+* Popplio
+* Quaxly
+* Qwilfish
+* Ralts
+* Remoraid
+* Scizor
+* Scyther
+* Seel
+* Shelmet
+* Slowpoke
+* Sneasel
+* Snivy
+* Snorunt
+* Snubbull
+* Spearow
+* Starly
+* Staryu
+* Stunfisk
+* Swablu
+* Swinub
+* Teddiursa
+* Timburr
+* Tirtouga
+* Togedemaru
+* Totodile
+* Vanillite
+* Vaporeon
+* Venonat
+* Voltorb
+* Wimpod
+* Wooloo
+* Wormadam
+* Wurmple
+
+---
+
+## Medium - All Shiny
+
+* Ampharos
+* Arcanine
+* Aromatisse
+* Audino
+* Bellsprout
+* Binacle
+* Clawitzer
+* Cutiefly
+* Delibird
+* Hisuian Arcanine
+* Hitmonlee
+* Lickitung
+* Lilligant
+* Lillipup
+* Mawile
+* Pikachu
+* Rattata (Alola)
+* Sableye
+* Samurott
+* Scolipede
+* Slurpuff
+* Sudowoodo
+* Swanna
+* Swirlix
+* Throh
+* Togedemaru
+* Togepi
+
+---
+
+## Hard - All Shiny
+
+* Absol
+* Aron
+* Barboach
+* Bellsprout
+* Blacephalon
+* Bloodmoon Ursaluna
+* Chimecho
+* Clefairy
+* Crabrawler
+* Cresselia
+* Cyndaquil
+* Delibird
+* Dewpider
+* Electabuzz
+* Electrike
+* Finneon
+* Fomantis
+* Froakie
+* Galarian Articuno
+* Gastly
+* Gastrodon
+* Glameow
+* Heracross
+* Hitmontop
+* Hypno
+* Kingler (Dynamax)
+* Koffing
+* Komala (Party Hat)
+* Kyurem
+* Lapras
+* Larvesta
+* Lickitung
+* Lillipup
+* Litwick
+* Luvdisc
+* Machamp (Gigantamax)
+* Makuhita
+* Mareanie
+* Milotic
+* Natu
+* Ninjask
+* Noibat
+* Numel
+* Nymble
+* Pidgey
+* Pikachu (Captain Hat)
+* Pikachu (Red Visor)
+* Pignite
+* Ponyta
+* Poochyena
+* Porygon-Z
+* Psyduck
+* Regirock
+* Rhyhorn
+* Roggenrola
+* Rowlet
+* Salamence
+* Sandygast
+* Sceptile
+* Sewaddle
+* Shieldon
+* Shuckle
+* Smeargle
+* Snover
+* Spheal
+* Spoink
+* Sprigatito
+* Starmie
+* Stufful
+* Tangela
+* Tauros
+* Thundurus
+* Togekiss
+* Tympole
+* Tyranitar
+* Ursaluna (Bloodmoon)
+* Vullaby
+* Yungoos
+* Zapdos
