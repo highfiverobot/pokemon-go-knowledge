@@ -350,7 +350,6 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Pawniard
 * Phantump
 * Pidgey
-* Pikachu
 * Piplup
 * Popplio
 * Quaxly
@@ -469,6 +468,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Pidgey
 * Pikachu (Captain Hat)
 * Pikachu (Red Visor)
+* Pikachu
 * Pignite
 * Ponyta
 * Poochyena
