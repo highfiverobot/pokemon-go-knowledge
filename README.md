@@ -232,11 +232,11 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 <a id="trades"></a>
 
 # trades
-Here are your lists, formatted as markdown:
 
----
 
-## Wanted (Shiny preferable, but open to more things)
+
+
+### Wanted (Shiny preferable, but open to more things)
 
 * Bruxish
 * Calyrex
@@ -245,44 +245,43 @@ Here are your lists, formatted as markdown:
 * Dialga
 * Dialga (Origin Forme)
 * Dratini
-* Eelektross
 * Enamorus
-* Gengar (Gigantamax)
-* Gourgeist
-* Granbull (Shadow)
-* Guzzlord
+* Finizen
+* Gengar (Gigantamax
 * Hoopa
 * Kartana
 * Litwick
 * Lugia
-* Luxray
 * Mudkip
 * Murkrow
 * Nihilego
-* Palafin
 * Palkia (Origin Forme)
 * Pheromosa
 * Pinsir
-* Politoed
+* Poliwag
 * Ponyta (Galarian)
+* Pumpkaboo
 * Riolu
 * Salandit
 * Seviper
+* Shinx
 * Slugma
 * Spiritomb
 * Stantler
+* Tynamo
 * Toxtricity (Gigantamax)
-* Tyrantrum
+* Tyrunt
 * Weedle
 * Woobat
 * Xurkitree
-* Yanmega
+* Yamask
+* Yanma
 * Yveltal
 * Zarude
 
 ---
 
-## Ez Trades - All Shiny
+### Ez Trades - All Shiny
 
 * Abra
 * Aipom
@@ -388,7 +387,7 @@ Here are your lists, formatted as markdown:
 
 ---
 
-## Medium - All Shiny
+### Medium - All Shiny
 
 * Ampharos
 * Arcanine
@@ -420,7 +419,7 @@ Here are your lists, formatted as markdown:
 
 ---
 
-## Hard - All Shiny
+### Hard - All Shiny
 
 * Absol
 * Aron
