@@ -290,6 +290,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Alolan Rattata
 * Alolan Sandshrew
 * Beldum
+* Bagon
 * Bidoof
 * Blitzle
 * Bonsly
@@ -404,8 +405,10 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Lilligant
 * Lillipup
 * Mawile
+* Minccino
 * Pikachu
 * Rattata (Alola)
+* Rookidee
 * Sableye
 * Samurott
 * Scolipede
