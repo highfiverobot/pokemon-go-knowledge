@@ -243,9 +243,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Calyrex
 * Cofagrigus
 * Deoxys
-* Dialga
 * Dialga (Origin Forme)
-* Dratini
 * Enamorus
 * Finizen
 * Gengar (Gigantamax
@@ -272,7 +270,6 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Tynamo
 * Toxtricity (Gigantamax)
 * Tyrunt
-* Weedle
 * Woobat
 * Xurkitree
 * Yamask
@@ -303,6 +300,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Clamperl
 * Combee
 * Cubone
+* Drati
 * Dreepy
 * Drilbur
 * Dugtrio
@@ -357,6 +355,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Qwilfish
 * Ralts
 * Remoraid
+* Rookidee
 * Scizor
 * Scyther
 * Seel
@@ -426,6 +425,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 
 * Absol
 * Aron
+* Axew
 * Barboach
 * Bellsprout
 * Blacephalon
@@ -446,6 +446,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Gastly
 * Gastrodon
 * Glameow
+* Goomy
 * Heracross
 * Hitmontop
 * Hypno
@@ -455,6 +456,7 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Kyurem
 * Lapras
 * Larvesta
+* Latios
 * Lickitung
 * Lillipup
 * Litwick
@@ -462,8 +464,11 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Machamp (Gigantamax)
 * Makuhita
 * Mareanie
+* Meowth (other)
 * Milotic
+* Minccino
 * Natu
+* Nidoran (F)
 * Ninjask
 * Noibat
 * Numel
@@ -502,5 +507,6 @@ Shadow&1, 2, 3, 4, 5, 6, 56, 57, 58, 59, 63, 64, 65, 66, 67, 68, 74, 75, 76, 81,
 * Tyranitar
 * Ursaluna (Bloodmoon)
 * Vullaby
+* Weedle
 * Yungoos
 * Zapdos
